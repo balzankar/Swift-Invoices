@@ -1,4 +1,4 @@
-![SwiftInvoice Logo](/assests/bw-img/logo.png)  
+![SwiftInvoice Logo](/assets/bw-img/logo.png)  
 # Swift-Invoices
 Responsive Bootstrap 4.5 HTML Template for Web Applications. Easy integration with all PHP/JS Frameworks.
 
