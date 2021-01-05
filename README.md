@@ -9,8 +9,7 @@ CTA Section.
 Easy Intergration with All PHP/JS Frameworks.  
 Clean Code.  
 
-More Fetures adding soon.  
-Based on Laravel, Bootstrap.
+More Features adding soon.  
 
 **Developed by**  
 Bal Sankar. All Right Reserved.
