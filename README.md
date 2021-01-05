@@ -9,9 +9,17 @@ CTA Section.
 Easy Intergration with All PHP/JS Frameworks.  
 Clean Code.  
 
+More Fetures adding soon.  
+Based on Laravel, Bootstrap.
+
 **Developed by**  
 Bal Sankar. All Right Reserved.
 
 **Licensed under**  
 MIT License  
 Copyright (c) 2021 Bal World.
+
+**Developer Contact**  
+visit www.balworld.in  
+or  
+Email balsankar@balworld.in
