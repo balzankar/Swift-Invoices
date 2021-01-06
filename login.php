@@ -8,9 +8,9 @@
     <link rel="icon" href="assets/img/favicon.png" type="image/png" sizes="16x16">
     <title>SwiftPae</title>
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-    <link rel="stylesheet" href="assets/css/simply4.css">
-    <link href="https://use.fontawesome.com/releases/v5.0.1/css/all.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/bw-bs.css">
+    <link rel="stylesheet" href="assets/css/bw_swift.css?v=1.2">
+    <link href="assets/css/bw-fa.css" rel="stylesheet">
 
 </head>
 

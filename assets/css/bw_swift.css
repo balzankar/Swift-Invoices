@@ -1208,7 +1208,7 @@ button.close {
 }
 
 .bg-transparent button.navbar-toggler span {
-    color: #fff;
+    color: #000;
     font-size: 18px;
 }
 
@@ -2308,7 +2308,16 @@ input::-ms-input-placeholder {
 
     .bw-page-title,
     .bw-main-title {
-        padding: 80px 0 35px;
+        padding: 100px 0 35px;
+    }
+    .lead {
+        font-size: 15px;
+    }
+}
+@media (min-width: 320px) and (max-width: 767px) {
+
+    .bw-header-top {
+        background: #fff !important;
     }
 }
 

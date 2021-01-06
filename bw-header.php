@@ -5,6 +5,7 @@
 * Licensed under MIT
 * github : https://github.com/balzankar/Swift-Invoices
 -->
+
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -12,8 +13,8 @@
     <link rel="icon" href="assets/bw-img/favicon.png" type="image/png" sizes="16x16">
     <title>SwiftPae</title>
 
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-    <link rel="stylesheet" href="assets/css/bw_swift.css">
+    <link rel="stylesheet" href="assets/css/bw-bs.css">
+    <link rel="stylesheet" href="assets/css/bw_swift.css?v=1.2">
     <link href="https://use.fontawesome.com/releases/v5.0.1/css/all.css" rel="stylesheet">
 
 </head>
@@ -53,7 +54,7 @@
                             </li>
 
                             <li class="nav-item hs-has-sub-menu custom-nav-item">
-                                <a id="invoiceMenu" class="nav-link custom-nav-link main-link-toggle" href="javascript:void(0);" aria-haspopup="true" aria-expanded="false" aria-labelledby="invoiceMenu">Invoice Generation</a>
+                                <a id="invoiceMenu" class="nav-link custom-nav-link main-link-toggle" href="javascript:void(0);" aria-haspopup="true" aria-expanded="false" aria-labelledby="invoiceMenu">Invoice</a>
 
                                 <ul id="invoiceMenu" class="hs-sub-menu main-sub-menu" aria-labelledby="invoiceMenu" style="min-width: 230px;">
                                     <li class="nav-item submenu-item">
@@ -109,7 +110,7 @@
                                                     <a class="title-with-icon-link" href="#">
                                                         <div class="media align-items-center">
                                                             <div class="menu-item-icon rounded-circle twitter-bg">
-                                                                <i class="fas fa-envelope"></i>
+                                                                <i class="fas fa-server"></i>
                                                             </div>
                                                             <div class="media-body">
                                                                 <span class="u-header__promo-title">Invoice Generator Pro</span>
@@ -148,7 +149,9 @@
                                         <div class="title-with-icon-item">
                                             <a class="title-with-icon-link" href="#">
                                                 <div class="media align-items-center">
-                                                    <img class="menu-titile-icon" src="assets/img/chat-mobile.svg" alt="SVG">
+                                                    <div class="menu-item-icon rounded-circle twitter-bg">
+                                                        <i class="fas fa-envelope"></i>
+                                                    </div>
                                                     <div class="media-body">
                                                         <span class="u-header__promo-title">Contact Us</span>
                                                         <small class="u-header__promo-text">Face any problem contact with us

@@ -155,9 +155,8 @@
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/jquery.easing.min.js"></script>
     <script src="assets/js/owl.carousel.min.js"></script>
-    <script src="assets/js/jquery.rcounterup.js"></script>
     <script src="assets/js/hs.megamenu.js"></script>
-    <script src="assets/js/bw_swift.js"></script>
+    <script src="assets/js/bw_swift.js?v=1.3"></script>
 </body>
 
 </html>

@@ -28,12 +28,12 @@
                         <li class="py-1"><span class="mr-2 h5">3.</span>99% Uptime.</li>
                         <li class="py-1"><span class="mr-2 h5">4.</span>No Additional Crawlers.</li>
                     </ul>
-                    <div class="action-btns mt-4">
+                    <div class="action-btns mt-4 mb-4">
                         <a href="#" class="btn btn-outline-bw-01">Get Started Now</a>
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 col-lg-6">
+            <div class="col-12 col-lg-6">
 
                 <div class="card-deck mb-3 text-center">
                     <div class="card mb-4 box-shadow">
